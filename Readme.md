@@ -1,5 +1,5 @@
 ## About Me:
-🔭 I’m currently working on Learnnfly<br><br>🌱 I’m currently learning Web development
+🔭 I’m currently working at codepixels<br><br>🌱 I’m currently learning Web development
 
 
 ## 🌐 Socials:
