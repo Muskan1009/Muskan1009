@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muskan 👋</h1>
-<h3 align="center">🌐 Frontend Developer | 🎨 UI/UX Designer | 👩‍💻 Tech Enthusiast</h3>
+<h3 align="center">🌐 Web Developer | 🎨 UI/UX Designer | 👩‍💻 Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Muskan1009">
